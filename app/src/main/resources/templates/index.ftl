@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hello Docker and Spring Boot!</title>
+    <title>Website from main branch</title>
 </head>
 <body>
-    <h1>Hello website from test</h1>
+    <h1>Hello website from main branch</h1>
 </body>
 </html>
