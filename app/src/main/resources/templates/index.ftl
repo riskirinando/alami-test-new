@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Website from main branch</title>
+    <title>Website from test branch</title>
 </head>
 <body>
-    <h1>Hello website from main branch</h1>
+    <h1>Hello website from live-demo test</h1>
 </body>
 </html>
